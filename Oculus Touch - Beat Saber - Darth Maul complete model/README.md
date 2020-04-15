@@ -13,9 +13,9 @@ Part list:
 
 Check out this remix https://www.thingiverse.com/thing:3232788, it looks way better!
 
-![Image of printed piece](images/751c166f2071c715cb2a4688119c4c1c_preview_featured.jpg)
+![Image of printed piece](images/751c166f2071c715cb2a4688119c4c1c_preview_featured.JPG)
 
-![Image of printed piece](images/f18cb717db7ea6ffce495905b9467dfc_preview_featured.jpg)
+![Image of printed piece](images/f18cb717db7ea6ffce495905b9467dfc_preview_featured.JPG)
 
 ## Print Settings
 
