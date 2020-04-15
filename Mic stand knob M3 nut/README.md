@@ -7,4 +7,4 @@ My mic stand adjusting knob broke, so I 3d printed a replacement for it.
 This works for any mic stand with a 3mm bolt. 
 You will need a nut to use it!
 
-![Image of printed piece](images/014ebc5fd6de387a6939ae9127d41208_preview_featured.jpg)
+![Image of printed piece](images/014ebc5fd6de387a6939ae9127d41208_preview_featured.JPG)
